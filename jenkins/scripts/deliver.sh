@@ -27,4 +27,4 @@ pwd
 ls -l
 chmod 777 target/"${NAME}"-"${VERSION}".jar
 java -jar "target/${NAME}-${VERSION}.jar"
-
+echo Pass
